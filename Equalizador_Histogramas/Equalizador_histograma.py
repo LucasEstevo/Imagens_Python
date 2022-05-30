@@ -28,4 +28,4 @@ plt.hist(img.ravel(), 256, [0,256])
 plt.xlim([0, 256])
 plt.show(block=True)
 
-cv2.waitKey(1)
+cv2.waitKey(0)

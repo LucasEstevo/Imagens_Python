@@ -69,6 +69,32 @@ plt.xlim([0, 256])
 #Mostra o Histograma que foi criado (original)
 plt.show(block=True)
 
-cv2.waitKey(1)
+cv2.waitKey(0)
 ```
 
+## 🤓 Resultados
+*Imagem Original do Fusca* <br/>
+![Imagem Original do Fusca](Resultados/fusca_original.png)
+
+*Histograma Imagem Original do Fusca* <br/>
+![Histograma Imagem Original do Fusca](Resultados/histograma_fusca_original.png)
+
+*Imagem Equalizada do Fusca*<br/>
+![Imagem Equalizada do Fusca](Resultados/fusca_equalizado.png)
+
+*Histograma Imagem equalizada do Fusca*<br/>
+![Histograma Imagem Equalizada do Fusca](Resultados/histograma_fusca_equalizado.png)
+
+---
+*Imagem Original da Mulher*<br/>
+![Imagem Original da Mulher](Resultados/mulher_original.png)
+
+*Histograma da imagem Original da Mulher*<br/>
+![Histograma imagem Original da Mulher](Resultados/histograma_mulher_original.png)
+
+
+*Imagem Equalizada da Mulher*<br/>
+![Imagem Equalizada da Mulher](Resultados/mulher_equalizada.png)
+
+*Histogramada da imagem Equalizada da Mulher*<br/>
+![Histogramada imagem Equalizada da Mulher](Resultados/histograma_mulher_equalizada.png)

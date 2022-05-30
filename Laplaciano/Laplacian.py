@@ -11,5 +11,5 @@ resultado = np.vstack([
 np.hstack([img, sobelX]),
 np.hstack([sobelY, sobel])
 ])
-cv2.imshow("Sobel", resultado)
+cv2.imshow("Laplaciano", resultado)
 cv2.waitKey(0)
