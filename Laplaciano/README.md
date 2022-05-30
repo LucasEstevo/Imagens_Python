@@ -1,4 +1,4 @@
-<h1 align="center">💻 Binarização de Imagens - Python 💻</h1>
+<h1 align="center">💻 Laplaciano de Imagens - Python 💻</h1>
 
 <br/>
 
